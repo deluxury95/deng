@@ -195,43 +195,18 @@ margin-left: 670px;
     margin-left: 580px;
     color: #f0e6e6;
 }
-.p2{
-    background-color: #e2dfdf;
-    background-position: 100%;
-    margin-left: 20px;
-        color: #330d0d;
-        margin-bottom: -50px;
-}
-.ee{
-    margin-left: 250px;
-   
-}
-.ee img{
-width: 100px;
-}
+
+
 .yi{
 margin-left: 500px;
 margin-top: -50px;
 
 }
 .yi img{
-    width: 100px;
+    width:900px;
 }
-.ki{
-margin-left: 800px;
 
-}
-.ki img{
-    width: 50px;
-    margin-top: -80px;
 
-}
-.qi img{
-    margin-left: 1000px;
-    width: 50px;
-height: 50px;
-margin-top: -68px;
-}
 .pp img{
 margin-left: 170px;
 width: 70px;
@@ -321,11 +296,20 @@ margin-bottom: -32px;
 
 }
 .aa img{
-    margin-left: 300px;
-    width: 130px;
+    margin-left: 800px;
+    width: 530px;
+    margin-top: -200px;
 }
 .up{
     color: #e6dbdb;
     margin-left:310px;
     margin-top: -60px;
+}
+
+.img{
+    margin-left: -10px;
+    
+}
+.img{
+    width: 400px;
 }
